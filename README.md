@@ -1,5 +1,6 @@
 # Notepyd
 Notepad clone created using python.
+
 ![notepyd_screenshot](https://user-images.githubusercontent.com/65050847/138564624-d1937d85-3cb4-400b-a57e-db95205678d7.png)
 
 ## Features
